@@ -1,0 +1,148 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 250
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 250
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 200
+    },
+    {
+      "img": "img/tabs/4.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 250
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 250
+    },
+    {
+      "img": "img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 250
+    }
+  ],
+  "requests": [
+    {
+      "name": "Zukhriddin",
+      "phone": "973872420",
+      "id": 1
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "+998 (90) 354 - 29 - 27",
+      "id": 2
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "+998 (90) 354 - 29 - 27",
+      "id": 3
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "903542927",
+      "id": 4
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "973872420",
+      "id": 5
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "973872420",
+      "id": 6
+    },
+    {
+      "name": "Esanov",
+      "phone": "973872420",
+      "id": 7
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "973872420",
+      "id": 8
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "973872420",
+      "id": 9
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "+998 (90) 354 - 29 - 27",
+      "id": 10
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "973872420",
+      "id": 11
+    },
+    {
+      "name": "ddddd",
+      "phone": "904277772",
+      "id": 12
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "973872420",
+      "id": 13
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "904277772",
+      "id": 14
+    },
+    {
+      "name": "aaA",
+      "phone": "+998 (90) 354 - 29 - 27",
+      "id": 15
+    },
+    {
+      "name": "aasas",
+      "phone": "990463390",
+      "id": 16
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "973872420",
+      "id": 17
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "+998 (90) 354 - 29 - 27",
+      "id": 18
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "973872420",
+      "id": 19
+    },
+    {
+      "name": "Zukhriddin",
+      "phone": "973872420",
+      "id": 20
+    }
+  ]
+}
